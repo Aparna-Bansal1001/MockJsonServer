@@ -12,5 +12,19 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "books":[
+    {
+      "id":1,
+      "author":"Ruskin",
+      "title":"Uncle Ken",
+      "price":250.0
+    },
+    {
+      "id":2,
+      "author":"SS",
+      "title":"Ret Samadhi",
+      "price":550.0
+    },
+  ]        
 }
